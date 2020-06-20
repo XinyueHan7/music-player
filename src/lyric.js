@@ -1,7 +1,7 @@
 import { Lrc, LrcLine } from '@mebtte/react-lrc';
 import React from 'react';
 
-//use hook here
+// use hook here
 const Lyric = ({ music, currentTime }) => {
     return (
         <div class="lyric">

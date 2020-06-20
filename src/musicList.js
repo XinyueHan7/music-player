@@ -16,8 +16,9 @@ class MusicList extends React.Component {
                 }
             }}
             onClick={() => this.props.selectTrack(music.id)}>
+            <img className="image" src={music.image} alt="music"/>
             <div className="title">{music.name}</div>
-            <div className="singer">{music.singers}</div>
+            <div className="singer">Singer: {music.singers}</div>
         </li>
         )
     }

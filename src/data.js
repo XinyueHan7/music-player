@@ -5,6 +5,7 @@ export default [
         name: 'Phoenix',
         album: 'Phoenix',
         src: '/songs/Phoenix.m4a',
+        image: '/images/image1.jpeg',
         lrc: `[00:11.89]What are you willing to lose
 [00:13.73]You cover your wounds but underneath them
 [00:17.74]A million voices in your head that whisper "Stop now"
@@ -47,6 +48,7 @@ export default [
         name: 'Step Step',
         album: 'Step Step',
         src: '/songs/Step.mp3',
+        image: '/images/image2.jpg',
         lrc: `[00:00.31]Look in my eyes
 [00:03.37]Can you see my heartbeat?
 [00:07.31]Swirling everywhere I go

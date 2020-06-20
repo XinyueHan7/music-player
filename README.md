@@ -1,9 +1,16 @@
-### `Requirement`
-Build a web component with the following functionalities. You can use HTML, Javascript, CSS, and other necessary programming languages. (Reactjs preferred, but not required.)
+### `Functionalities`
+Use ReactJS to build a basic music player with the following functionalities:
 1) Load, play and pause music
 2) Load Lyrics
-3) Automatic Lyrics-to-Audio Alignment (basically scroll down and highlight the line of lyrics as the
-music plays)
+3) Jump to the correct lyric line when clicking on the audio progress bar
+
 
 ### `Project Evidence`
 https://drive.google.com/file/d/1N1RltaF34RlvsgDTJp_DD_vZ0_n92oHo/view
+<img src="./projectEvidence1.png">
+<img src="./projectEvidence2.png">
+
+### `Todo`
+1) Automatically scroll down lyrics when music playing
+2) Enable to edit the lyrics
+3) Jump to the position in the music when clicking on the lyrics

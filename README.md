@@ -2,7 +2,7 @@
 Use ReactJS to build a basic music player with the following functionalities:
 1) Load, play and pause music
 2) Load Lyrics
-3) Jump to the correct lyric line when clicking on the audio progress bar
+3) Highlight the correct lyric line when clicking on the audio progress bar
 
 
 ### `Project Evidence`
